@@ -1,0 +1,11 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">icy_page_title</custom-field>        
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">events</custom-type>
+        <custom-type translate="1">template</custom-type>
+    </custom-types>           
+</wpml-config>
+
+
